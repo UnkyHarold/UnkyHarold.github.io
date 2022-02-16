@@ -1,7 +1,7 @@
 h1 {font-family: courier;
  
 } 
-body {background: linear-gradient(red, yellow);
+body {background: linear-gradient(45deg, lightBlue, yellow);
  
 }
 .miata-lord { border: solid 2px;
@@ -9,4 +9,5 @@ text-align: center;
 }
 .build-list {font-weight: bold;
 }
-.miat {
+.miat {border-radius: 20px;
+}
