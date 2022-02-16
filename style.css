@@ -1,7 +1,7 @@
 h1 {font-family: courier;
  
 } 
-body {background-color: yellow;
+body {background: linear-gradient(lightBlue, yellow);
  
 }
 .miata-lord { border: solid 2px;
