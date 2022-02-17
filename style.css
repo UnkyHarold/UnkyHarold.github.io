@@ -1,13 +1,28 @@
-h1 {font-family: courier;
+h1 {font-family: impact;
  
 } 
 body {background: linear-gradient(45deg, lightBlue, yellow);
+
  
 }
 .miata-lord { border: solid 2px;
 text-align: center;
+border-radius: 10px;
+padding-bottom: 0px;
 }
 .build-list {font-weight: bold;
 }
-.miat {border-radius: 20px;
+.miat {border-radius: 15px;
+position: relative;
+left: 50px;
+}
+ul {position: relative;
+left: 75px;
+}
+.list {position: relative;
+left: 50px;
+}
+.catch {text-align: center;
+position:relative;
+bottom: 20px;
 }
