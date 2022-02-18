@@ -1,35 +1,42 @@
-h1 {font-family: impact;
- 
-} 
-html {background: linear-gradient(30deg, lightBlue, cyan);
-
- 
+h1 {
+  font-family: sans-serif;
 }
-.miata-lord { border: solid 2px;
+html {
+  background: linear-gradient(30deg, red, azure); 
+}
+.miata-lord {
+  border: solid 2px;
 text-align: center;
 border-radius: 10px;
-padding-bottom: 0px;
 background: linear-gradient(lightBlue, white);
+margin-bottom: 0;
+
 }
-.build-list {font-weight: bold;
+.build-list {
+  font-weight: bold;
+  z-index: 1;
 }
-.miat {border-radius: 15px;
+.miat {
+  border-radius: 15px;
 position: relative;
-left: 50px;
+z-index: -0;
 }
-ul {position: relative;
-left: 75px;
-}
-.list {position: relative;
-left: 50px;
-}
-.catch {text-align: center;
-position:relative;
+.catch {
+  text-align: center;
+position: ;
 bottom: 20px;
 }
-.container {display: flex;
+.container {
+display: flex;
 justify-content: center;
-border: 4px solid;
-background-color: lightBlue;
-padding: 3px;
+border: 2px solid;
+flex-wrap: wrap;
+}
+.menuitem {
+  z-index: 1;
+  position: absolute;
+}
+.menu {
+  display: flex;
+ justify-content: space-between;
 }
