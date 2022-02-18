@@ -2,11 +2,11 @@ h1 {
   font-family: sans-serif;
 }
 html {
-  background: linear-gradient(30deg, cyan, azure); 
+  background: linear-gradient(180deg, cyan, azure); 
   height: 100%;
 }
 body {
-  background: linear-gradient(30deg, cyan, azure); 
+  background: linear-gradient(180deg, cyan, azure); 
 }
 .miata-lord {
   border: solid 2px;
