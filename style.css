@@ -4,6 +4,8 @@ h1 {
 html {
   background: linear-gradient(30deg, red, azure); 
 }
+body {
+  background: linear-gradient(30deg, cyan, azure); 
 .miata-lord {
   border: solid 2px;
 text-align: center;
