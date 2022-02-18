@@ -3,6 +3,7 @@ h1 {
 }
 html {
   background: linear-gradient(30deg, cyan, azure); 
+  height: 100%;
 }
 body {
   background: linear-gradient(30deg, cyan, azure); 
