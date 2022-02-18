@@ -2,7 +2,7 @@ h1 {
   font-family: sans-serif;
 }
 html {
-  background: linear-gradient(30deg, red, azure); 
+  background: linear-gradient(30deg, cyan, azure); 
 }
 body {
   background: linear-gradient(30deg, cyan, azure); 
