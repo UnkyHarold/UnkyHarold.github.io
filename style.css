@@ -11,9 +11,8 @@ body {
   border: solid 2px;
 text-align: center;
 border-radius: 10px;
-background: linear-gradient(lightBlue, white);
+background: linear-gradient(lightBlue, white) fixed;
 margin-bottom: 0;
-
 }
 .build-list {
   font-weight: bold;
@@ -21,7 +20,7 @@ margin-bottom: 0;
 }
 .miat {
   border-radius: 15px;
-position: relative;
+position: ;
 z-index: -0;
 }
 .catch {
@@ -41,4 +40,9 @@ flex-wrap: wrap;
 .menu {
   display: flex;
  justify-content: space-between;
+}
+.buildmenu{
+  display: flex;
+  justify-content:center;
+  
 }
